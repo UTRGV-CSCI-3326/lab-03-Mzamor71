@@ -1,3 +1,9 @@
+/*
+ * Name: Michael Zamora
+ * SID: 20593343
+ * Date: 1/29/2025
+ */
+
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
